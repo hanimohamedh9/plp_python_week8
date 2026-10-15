@@ -1,0 +1,58 @@
+MY PYTHON TOOLKIT PLAN
+
+1. TOOLKIT TOOLS
+
+Tool 1: Simple Calculator
+This tool will ask the user for two numbers and calculate their sum.
+
+Concepts: input, variables, arithmetic operators, conditionals, and f-strings.
+
+Tool 2: Even or Odd Checker
+This tool will ask the user to enter a number and tell them whether it is even or odd.
+
+Concepts: input, variables, conditionals, modulo operator, and f-strings.
+
+Tool 3: Name Formatter
+This tool will ask the user to enter their name and display it in title case.
+
+Concepts: input, string methods, variables, and f-strings.
+
+2. EXACT MENU TEXT
+
+Welcome to My Python Toolkit!
+
+Please choose a tool:
+
+1. Simple Calculator
+2. Even or Odd Checker
+3. Name Formatter
+4. Quit
+
+Enter your choice (1-4):
+
+3. MENU BEHAVIOR
+The program will use a while loop to display the menu repeatedly until the user chooses Quit.
+
+It will use if, elif, and else statements to run the selected tool or display a friendly message for an invalid choice.
+
+The program will display a friendly goodbye message when the user chooses to quit.
+
+4. PYTHON CONCEPTS
+
+Variables: Store user input and results.
+
+Input: Collect information from the user.
+
+Conditionals: Choose which tool to run.
+
+Loops: Keep the menu running until the user quits.
+
+F-strings: Display results in readable messages.
+
+String methods: Format the user's name.
+
+Arithmetic operators: Calculate the sum of two numbers.
+
+Modulo operator: Check whether a number is even or odd.
+
+Comments: Explain what each tool does.
